@@ -1,3 +1,9 @@
+# Install 
+zsh
+oh-my-zsh
+gruvbox-zsh
+
+# Install config
 ## Storing your dotfiles using a non-bare, default repository:
 1. git init $HOME/.cfg
 2. alias config='/usr/bin/git --git-dir=$HOME/.cfg/.git/ --work-tree=$HOME'
